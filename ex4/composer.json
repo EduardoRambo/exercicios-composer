@@ -1,0 +1,17 @@
+{
+    "name": "eduardo/ex4",
+    "description": "Exemplo número quatro",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Rambo",
+            "email": "eduardorambolima@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "classmap": ["App/Src/Model"]
+    }
+}
